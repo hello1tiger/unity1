@@ -1,4 +1,4 @@
-*.exe linguist-language=unity
+*.asp linguist-language=unity
 
 *.assets linguist-language=unity
 
