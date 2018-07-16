@@ -1,0 +1,36 @@
+Initialize engine version: 5.2.0f3 (e7947df39b5c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\大四\游戏设计与开发\《游戏设计与开发》课程报告——王凯、杨伦\可执行程序\two_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\大四\游戏设计与开发\《游戏设计与开发》课程报告——王凯、杨伦\可执行程序\two_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\大四\游戏设计与开发\《游戏设计与开发》课程报告——王凯、杨伦\可执行程序\two_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\大四\游戏设计与开发\《游戏设计与开发》课程报告——王凯、杨伦\可执行程序\two_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\大四\游戏设计与开发\《游戏设计与开发》课程报告——王凯、杨伦\可执行程序\two_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\大四\游戏设计与开发\《游戏设计与开发》课程报告——王凯、杨伦\可执行程序\two_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\大四\游戏设计与开发\《游戏设计与开发》课程报告——王凯、杨伦\可执行程序\two_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\大四\游戏设计与开发\《游戏设计与开发》课程报告——王凯、杨伦\可执行程序\two_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\大四\游戏设计与开发\《游戏设计与开发》课程报告——王凯、杨伦\可执行程序\two_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\大四\游戏设计与开发\《游戏设计与开发》课程报告——王凯、杨伦\可执行程序\two_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\大四\游戏设计与开发\《游戏设计与开发》课程报告——王凯、杨伦\可执行程序\two_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\大四\游戏设计与开发\《游戏设计与开发》课程报告——王凯、杨伦\可执行程序\two_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\大四\游戏设计与开发\《游戏设计与开发》课程报告——王凯、杨伦\可执行程序\two_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.949 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\大四\游戏设计与开发\《游戏设计与开发》课程报告——王凯、杨伦\可执行程序\two_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 24d4 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.119569 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 4206.
+Total: 2.147419 ms (FindLiveObjects: 0.368645 ms CreateObjectMapping: 0.230711 ms MarkObjects: 1.174491 ms  DeleteObjects: 0.371929 ms)
+
+Platform assembly: E:\大四\游戏设计与开发\《游戏设计与开发》课程报告——王凯、杨伦\可执行程序\two_Data\Managed\Boo.Lang.dll (this message is harmless)
