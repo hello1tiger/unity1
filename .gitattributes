@@ -1,7 +1,7 @@
-*.asp linguist-language=unity
+*.asp linguist-language=Unity
 
-*.js linguist-language=unity
+*.js linguist-language=Unity
 
-*.html linguist-language=unity
+*.html linguist-language=Unity
 
 sharedassets1.assets filter=lfs diff=lfs merge=lfs -text
